@@ -1,20 +1,4 @@
-# Tailwind Traders Website
 
-![Tailwind Traders Website](Documents/Images/Website.png)
-
-[![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
-
-
-# Repositories
-
-For this demo reference, we built several consumer and line-of-business applications and a set of backend services. You can find all repositories in the following locations:
-
-- [Tailwind Traders](https://github.com/Microsoft/TailwindTraders)
-- [Backend (AKS)](https://github.com/Microsoft/TailwindTraders-Backend)
-- [Website (ASP.NET & React)](https://github.com/Microsoft/TailwindTraders-Website)
-- [Desktop (WinForms & WPF -.NET Core)](https://github.com/Microsoft/TailwindTraders-Desktop)
-- [Rewards (ASP.NET Framework)](https://github.com/Microsoft/TailwindTraders-Rewards)
-- [Mobile (Xamarin Forms 4.0)](https://github.com/Microsoft/TailwindTraders-Mobile)
 
 # Deploy to Azure
 
